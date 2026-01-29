@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@react-google-maps/api": "^2.20.8",
+    "@supabase/supabase-js": "^2.93.2",
     "@tailwindcss/postcss": "^4.1.18",
     "@tailwindcss/vite": "^4.1.18",
     "leaflet": "^1.9.4",
